@@ -26,13 +26,15 @@ Juego de cartas en C++ donde los jugadores compiten por tener la carta más alta
 
 ⚙️ Configuración
 Requisitos:
+
 Compilador C++
+
 Sistema operativo compatible (Windows, Linux, macOS)
+
 Compilación y Ejecución
-bash
-Copy
-g++ -o juego juego.cpp
-./juego
+
+
+
 
 🎮 Funcionalidades
 ✅ Menú interactivo para configurar jugadores y cartas.
@@ -42,6 +44,7 @@ g++ -o juego juego.cpp
 ✅ Sistema de rondas con turnos rotativos.
 
 ✅ Determinación automática del ganador por ronda y final.
+
 
 
 📝 Clases Principales
