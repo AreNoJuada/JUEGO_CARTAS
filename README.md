@@ -86,5 +86,6 @@ Ganador de la ronda: Jugador3 con 9🟦
 ¡Diviértete jugando! 🎲🃏
 
 
-# juego_cartas
+
+# Juego_cartas
 modelamiento del juego de cartas al estilo Crash, para de modo multijugador y con el lenguaje de c++
