@@ -72,6 +72,7 @@ Ingrese el número de jugadores (2-4): 3
 Ingrese el número de cartas por jugador (1-9): 4
 
 === RONDA 1 ===
+
 Mano de Jugador1: 1🟦 3🟥 7🟩 5🟨 
 Jugador1, elige una carta (1-4): 1
 
