@@ -13,10 +13,15 @@ Juego de cartas en C++ donde los jugadores compiten por tener la carta más alta
 
 🔹 Reglas del Juego
 > Cada jugador recibe 4 cartas.
+
 > El primer jugador define el color de la ronda.
+
 > Los demás jugadores deben tirar una carta (aunque no tengan el color).
+
 > Gana la ronda quien tenga la carta más alta del color inicial.
+
 > Si nadie tiene el color, gana el jugador que inició la ronda.
+
 > Al final, gana quien haya recolectado más cartas.
 
 ⚙️ Configuración
@@ -31,8 +36,11 @@ g++ -o juego juego.cpp
 
 🎮 Funcionalidades
 ✅ Menú interactivo para configurar jugadores y cartas.
+
 ✅ Lógica de juego basada en colores y números.
+
 ✅ Sistema de rondas con turnos rotativos.
+
 ✅ Determinación automática del ganador por ronda y final.
 
 
