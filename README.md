@@ -11,6 +11,8 @@ Hecho por:
 📌 Descripción
 Juego de cartas en C++ donde los jugadores compiten por tener la carta más alta del color determinado por el primer jugador en cada ronda.
 
+
+
 🔹 Reglas del Juego
 > Cada jugador recibe 4 cartas.
 
