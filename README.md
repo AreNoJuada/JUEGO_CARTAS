@@ -3,15 +3,20 @@ Documentación del Juego de Cartas por Color y Número
 Repositorio Git: https://github.com/AreNoJuada/JUEGO_CARTAS
 
 Hecho por:
-- MATHYUS OROZCO
-- JUAN DAVID ARENAS
-- MIGUEL CORTES
+👨‍💻 MATHYUS OROZCO
+👨‍💻 JUAN DAVID ARENAS
+👨‍💻 MIGUEL CORTES
 
 
 📌 Descripción
-Juego de cartas en C++ donde los jugadores compiten por tener la carta más alta del color determinado por el primer jugador en cada ronda.
+Juego de cartas multijugador en C++ donde los participantes compiten por tener la carta más alta del color determinado en cada ronda, ahora con soporte para conexiones de red mediante sockets.
 
-
+🎮 Características Principales
+- ✅ **Modo multijugador en red** (Cliente-Servidor)
+- ✅ Sistema de rondas con turnos rotativos
+- ✅ Lógica basada en colores (🟦, 🟥, 🟩, 🟨) y números (1-9)
+- ✅ Determinación automática del ganador
+- ✅ Interfaz por consola intuitiva
 
 🔹 Reglas del Juego
 > Cada jugador recibe 4 cartas.
@@ -34,19 +39,6 @@ Compilador C++
 Sistema operativo compatible (Windows, Linux, macOS)
 
 Compilación y Ejecución
-
-
-
-
-🎮 Funcionalidades
-✅ Menú interactivo para configurar jugadores y cartas.
-
-✅ Lógica de juego basada en colores y números.
-
-✅ Sistema de rondas con turnos rotativos.
-
-✅ Determinación automática del ganador por ronda y final.
-
 
 
 📝 Clases Principales
@@ -92,4 +84,4 @@ Ganador de la ronda: Jugador3 con 9🟦
 
 
 # Juego_cartas
-modelamiento del juego de cartas al estilo Crash, para de modo multijugador y con el lenguaje de c++
+modelamiento del juego de cartas de modo multijugador y con el lenguaje de c++
